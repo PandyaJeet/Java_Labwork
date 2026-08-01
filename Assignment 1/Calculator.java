@@ -4,9 +4,9 @@ class Calculator{
 	public static void main(String args[]){
 		Scanner n = new Scanner(System.in);
 		System.out.print("Enter number 1 : ");
-		Int a = n.nextInt();
+		int a = n.nextInt();
 		System.out.print("Enter number 2 : ");
-		Int b = n.nextInt();
+		int b = n.nextInt();
 		System.out.print("Enter operator (+ - * /) : ");
 		char op = n.next().charAt(0);
 
