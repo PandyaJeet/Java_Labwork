@@ -21,6 +21,10 @@ class DemoWhile{
         int no = n.nextInt();
         obj.setData(no);
         obj.checkData();
-
+        n.close();
+    }
+    public void Hello(){
+        int array[] = new int[5];
+        array[1] = 10;
     }
 }
