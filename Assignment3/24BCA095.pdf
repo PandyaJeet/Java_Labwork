@@ -1,0 +1,4669 @@
+%PDF-1.4
+%‚„œ”
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [7 0 R 9 0 R 11 0 R 13 0 R 15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R] /Count 10 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Courier >>
+endobj
+6 0 obj
+<< /Length 6524 >>
+stream
+0.100 0.280 0.400 rg
+BT
+/F2 22 Tf
+42.0 750.0 Td
+(Practical Assignment-3) Tj
+ET
+0.15 0.60 0.56 RG 2 w 42 720.0 m 250 720.0 l S
+0.180 0.240 0.280 rg
+BT
+/F2 10 Tf
+50.0 694.0 Td
+(NAME Jeet Pandya) Tj
+ET
+0.180 0.240 0.280 rg
+BT
+/F2 10 Tf
+50.0 679.0 Td
+(DIV 2) Tj
+ET
+0.180 0.240 0.280 rg
+BT
+/F2 10 Tf
+50.0 664.0 Td
+(STUDENT ID 24BCA095) Tj
+ET
+0.900 0.950 0.960 rg
+36.0 618.0 540.0 36.0 re f
+0.080 0.320 0.430 rg
+BT
+/F2 11.5 Tf
+42.0 649.0 Td
+(Q1 Create and use a package mypackage with a Greeting class that displays Hello World.) Tj
+ET
+0.800 0.300 0.160 rg
+BT
+/F2 12 Tf
+42.0 624.0 Td
+(PROGRAM) Tj
+ET
+0.270 0.310 0.340 rg
+BT
+/F2 8.8 Tf
+47.0 606.0 Td
+(mypackage/Greeting.java) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 591.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 593.0 Td
+(package mypackage;) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 581.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 583.0 Td
+() Tj
+ET
+0.960 0.970 0.980 rg
+38.0 571.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 573.0 Td
+(public class Greeting {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 561.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 563.0 Td
+(    public void display\(\) {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 551.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 553.0 Td
+(        System.out.println\("Hello World."\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 541.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 543.0 Td
+(    }) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 531.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 533.0 Td
+(}) Tj
+ET
+0.270 0.310 0.340 rg
+BT
+/F2 8.8 Tf
+47.0 515.0 Td
+(Q1_UseGreeting.java) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 500.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 502.0 Td
+(import mypackage.Greeting;) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 490.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 492.0 Td
+() Tj
+ET
+0.960 0.970 0.980 rg
+38.0 480.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 482.0 Td
+(public class Q1_UseGreeting {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 470.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 472.0 Td
+(    public static void main\(String[] args\) {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 460.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 462.0 Td
+(        Greeting greeting = new Greeting\(\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 450.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 452.0 Td
+(        greeting.display\(\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 440.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 442.0 Td
+(    }) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 430.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 432.0 Td
+(}) Tj
+ET
+0.800 0.300 0.160 rg
+BT
+/F2 12 Tf
+42.0 414.0 Td
+(OUTPUT) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 394.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 396.0 Td
+(Hello World.) Tj
+ET
+0.900 0.950 0.960 rg
+36.0 331.0 540.0 52.0 re f
+0.080 0.320 0.430 rg
+BT
+/F2 11.5 Tf
+42.0 378.0 Td
+(Q2 Create packages pkgA and pkgB and demonstrate public, protected, and default access) Tj
+ET
+0.080 0.320 0.430 rg
+BT
+/F2 11.5 Tf
+42.0 363.0 Td
+(modifiers.) Tj
+ET
+0.800 0.300 0.160 rg
+BT
+/F2 12 Tf
+42.0 338.0 Td
+(PROGRAM) Tj
+ET
+0.270 0.310 0.340 rg
+BT
+/F2 8.8 Tf
+47.0 320.0 Td
+(pkgA/AccessDemo.java) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 305.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 307.0 Td
+(package pkgA;) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 295.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 297.0 Td
+() Tj
+ET
+0.960 0.970 0.980 rg
+38.0 285.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 287.0 Td
+(public class AccessDemo {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 275.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 277.0 Td
+(    public void publicMethod\(\) {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 265.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 267.0 Td
+(        System.out.println\("Public method is accessible."\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 255.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 257.0 Td
+(    }) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 245.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 247.0 Td
+() Tj
+ET
+0.960 0.970 0.980 rg
+38.0 235.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 237.0 Td
+(    protected void protectedMethod\(\) {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 225.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 227.0 Td
+(        System.out.println\("Protected method is accessible to a subclass."\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 215.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 217.0 Td
+(    }) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 205.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 207.0 Td
+() Tj
+ET
+0.960 0.970 0.980 rg
+38.0 195.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 197.0 Td
+(    void defaultMethod\(\) {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 185.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 187.0 Td
+(        System.out.println\("Default method is accessible only inside pkgA."\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 175.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 177.0 Td
+(    }) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 165.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 167.0 Td
+(}) Tj
+ET
+0.270 0.310 0.340 rg
+BT
+/F2 8.8 Tf
+47.0 149.0 Td
+(pkgB/AccessTest.java) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 134.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 136.0 Td
+(package pkgB;) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 124.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 126.0 Td
+() Tj
+ET
+0.960 0.970 0.980 rg
+38.0 114.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 116.0 Td
+(import pkgA.AccessDemo;) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 104.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 106.0 Td
+() Tj
+ET
+0.960 0.970 0.980 rg
+38.0 94.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 96.0 Td
+(public class AccessTest extends AccessDemo {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 84.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 86.0 Td
+(    public void testAccess\(\) {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 74.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 76.0 Td
+(        publicMethod\(\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 64.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 66.0 Td
+(        protectedMethod\(\);) Tj
+ET
+0.160 0.350 0.450 rg
+BT
+/F2 7.5 Tf
+42.0 776.0 Td
+(PRACTICAL ASSIGNMENT-3) Tj
+ET
+0.350 0.400 0.430 rg
+BT
+/F1 7.5 Tf
+470.0 776.0 Td
+(24BCA095) Tj
+ET
+0.82 0.86 0.88 RG 0.5 w 42 34 m 570 34 l S
+0.350 0.400 0.430 rg
+BT
+/F1 7.5 Tf
+302.0 20.0 Td
+(1) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 6 0 R >>
+endobj
+8 0 obj
+<< /Length 7494 >>
+stream
+0.960 0.970 0.980 rg
+38.0 748.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 750.0 Td
+(        // defaultMethod\(\); does not compile because it belongs to package pkgA.) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 738.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 740.0 Td
+(    }) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 728.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 730.0 Td
+() Tj
+ET
+0.960 0.970 0.980 rg
+38.0 718.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 720.0 Td
+(    public static void main\(String[] args\) {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 708.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 710.0 Td
+(        new AccessTest\(\).testAccess\(\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 698.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 700.0 Td
+(        System.out.println\("Default method cannot be accessed from pkgB."\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 688.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 690.0 Td
+(    }) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 678.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 680.0 Td
+(}) Tj
+ET
+0.800 0.300 0.160 rg
+BT
+/F2 12 Tf
+42.0 662.0 Td
+(OUTPUT) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 642.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 644.0 Td
+(Public method is accessible.) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 632.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 634.0 Td
+(Protected method is accessible to a subclass.) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 622.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 624.0 Td
+(Default method cannot be accessed from pkgB.) Tj
+ET
+0.900 0.950 0.960 rg
+36.0 559.0 540.0 52.0 re f
+0.080 0.320 0.430 rg
+BT
+/F2 11.5 Tf
+42.0 606.0 Td
+(Q3 Create shapes.Circle and graphics.Circle and print both areas using fully qualified) Tj
+ET
+0.080 0.320 0.430 rg
+BT
+/F2 11.5 Tf
+42.0 591.0 Td
+(names.) Tj
+ET
+0.800 0.300 0.160 rg
+BT
+/F2 12 Tf
+42.0 566.0 Td
+(PROGRAM) Tj
+ET
+0.270 0.310 0.340 rg
+BT
+/F2 8.8 Tf
+47.0 548.0 Td
+(shapes/Circle.java) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 533.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 535.0 Td
+(package shapes;) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 523.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 525.0 Td
+() Tj
+ET
+0.960 0.970 0.980 rg
+38.0 513.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 515.0 Td
+(public class Circle {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 503.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 505.0 Td
+(    private double radius = 5;) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 493.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 495.0 Td
+() Tj
+ET
+0.960 0.970 0.980 rg
+38.0 483.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 485.0 Td
+(    public double area\(\) {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 473.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 475.0 Td
+(        return Math.PI * radius * radius;) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 463.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 465.0 Td
+(    }) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 453.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 455.0 Td
+(}) Tj
+ET
+0.270 0.310 0.340 rg
+BT
+/F2 8.8 Tf
+47.0 437.0 Td
+(graphics/Circle.java) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 422.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 424.0 Td
+(package graphics;) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 412.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 414.0 Td
+() Tj
+ET
+0.960 0.970 0.980 rg
+38.0 402.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 404.0 Td
+(public class Circle {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 392.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 394.0 Td
+(    private double radius = 7;) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 382.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 384.0 Td
+() Tj
+ET
+0.960 0.970 0.980 rg
+38.0 372.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 374.0 Td
+(    public double area\(\) {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 362.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 364.0 Td
+(        return Math.PI * radius * radius;) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 352.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 354.0 Td
+(    }) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 342.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 344.0 Td
+(}) Tj
+ET
+0.270 0.310 0.340 rg
+BT
+/F2 8.8 Tf
+47.0 326.0 Td
+(Q3_CircleAreas.java) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 311.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 313.0 Td
+(public class Q3_CircleAreas {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 301.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 303.0 Td
+(    public static void main\(String[] args\) {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 291.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 293.0 Td
+(        shapes.Circle shapeCircle = new shapes.Circle\(\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 281.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 283.0 Td
+(        graphics.Circle graphicCircle = new graphics.Circle\(\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 271.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 273.0 Td
+() Tj
+ET
+0.960 0.970 0.980 rg
+38.0 261.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 263.0 Td
+(        System.out.println\("shapes.Circle area : " + shapeCircle.area\(\)\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 251.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 253.0 Td
+(        System.out.println\("graphics.Circle area : " + graphicCircle.area\(\)\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 241.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 243.0 Td
+(    }) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 231.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 233.0 Td
+(}) Tj
+ET
+0.800 0.300 0.160 rg
+BT
+/F2 12 Tf
+42.0 215.0 Td
+(OUTPUT) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 195.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 197.0 Td
+(shapes.Circle area : 78.53981633974483) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 185.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 187.0 Td
+(graphics.Circle area : 153.93804002589985) Tj
+ET
+0.900 0.950 0.960 rg
+36.0 138.0 540.0 36.0 re f
+0.080 0.320 0.430 rg
+BT
+/F2 11.5 Tf
+42.0 169.0 Td
+(Q4 Demonstrate String, Math, and System classes from java.lang.) Tj
+ET
+0.800 0.300 0.160 rg
+BT
+/F2 12 Tf
+42.0 144.0 Td
+(PROGRAM) Tj
+ET
+0.270 0.310 0.340 rg
+BT
+/F2 8.8 Tf
+47.0 126.0 Td
+(Q4_JavaLang.java) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 111.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 113.0 Td
+(public class Q4_JavaLang {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 101.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 103.0 Td
+(    public static void main\(String[] args\) {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 91.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 93.0 Td
+(        String text = "Hello Java";) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 81.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 83.0 Td
+(        System.out.println\("Length : " + text.length\(\)\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 71.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 73.0 Td
+(        System.out.println\("Square root : " + Math.sqrt\(81\)\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 61.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 63.0 Td
+(        System.out.println\("Power : " + Math.pow\(2, 5\)\);) Tj
+ET
+0.160 0.350 0.450 rg
+BT
+/F2 7.5 Tf
+42.0 776.0 Td
+(PRACTICAL ASSIGNMENT-3) Tj
+ET
+0.350 0.400 0.430 rg
+BT
+/F1 7.5 Tf
+470.0 776.0 Td
+(24BCA095) Tj
+ET
+0.82 0.86 0.88 RG 0.5 w 42 34 m 570 34 l S
+0.350 0.400 0.430 rg
+BT
+/F1 7.5 Tf
+302.0 20.0 Td
+(2) Tj
+ET
+endstream
+endobj
+9 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 8 0 R >>
+endobj
+10 0 obj
+<< /Length 7359 >>
+stream
+0.960 0.970 0.980 rg
+38.0 748.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 750.0 Td
+(        System.out.println\("Output printed using System."\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 738.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 740.0 Td
+(    }) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 728.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 730.0 Td
+(}) Tj
+ET
+0.800 0.300 0.160 rg
+BT
+/F2 12 Tf
+42.0 712.0 Td
+(OUTPUT) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 692.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 694.0 Td
+(Length : 10) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 682.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 684.0 Td
+(Square root : 9.0) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 672.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 674.0 Td
+(Power : 32.0) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 662.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 664.0 Td
+(Output printed using System.) Tj
+ET
+0.900 0.950 0.960 rg
+36.0 599.0 540.0 52.0 re f
+0.080 0.320 0.430 rg
+BT
+/F2 11.5 Tf
+42.0 646.0 Td
+(Q5 Convert int and double values to wrapper objects and back using boxing and) Tj
+ET
+0.080 0.320 0.430 rg
+BT
+/F2 11.5 Tf
+42.0 631.0 Td
+(unboxing.) Tj
+ET
+0.800 0.300 0.160 rg
+BT
+/F2 12 Tf
+42.0 606.0 Td
+(PROGRAM) Tj
+ET
+0.270 0.310 0.340 rg
+BT
+/F2 8.8 Tf
+47.0 588.0 Td
+(Q5_WrapperClasses.java) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 573.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 575.0 Td
+(public class Q5_WrapperClasses {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 563.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 565.0 Td
+(    public static void main\(String[] args\) {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 553.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 555.0 Td
+(        int number = 25;) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 543.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 545.0 Td
+(        double price = 99.5;) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 533.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 535.0 Td
+() Tj
+ET
+0.960 0.970 0.980 rg
+38.0 523.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 525.0 Td
+(        Integer boxedNumber = number;) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 513.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 515.0 Td
+(        Double boxedPrice = price;) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 503.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 505.0 Td
+(        int unboxedNumber = boxedNumber;) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 493.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 495.0 Td
+(        double unboxedPrice = boxedPrice;) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 483.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 485.0 Td
+() Tj
+ET
+0.960 0.970 0.980 rg
+38.0 473.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 475.0 Td
+(        System.out.println\("Integer object : " + boxedNumber\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 463.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 465.0 Td
+(        System.out.println\("Double object : " + boxedPrice\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 453.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 455.0 Td
+(        System.out.println\("Sum : " + \(unboxedNumber + boxedPrice\)\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 443.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 445.0 Td
+(        System.out.println\("Price after tax : " + \(unboxedPrice * 1.18\)\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 433.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 435.0 Td
+(    }) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 423.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 425.0 Td
+(}) Tj
+ET
+0.800 0.300 0.160 rg
+BT
+/F2 12 Tf
+42.0 407.0 Td
+(OUTPUT) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 387.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 389.0 Td
+(Integer object : 25) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 377.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 379.0 Td
+(Double object : 99.5) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 367.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 369.0 Td
+(Sum : 124.5) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 357.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 359.0 Td
+(Price after tax : 117.41) Tj
+ET
+0.900 0.950 0.960 rg
+36.0 310.0 540.0 36.0 re f
+0.080 0.320 0.430 rg
+BT
+/F2 11.5 Tf
+42.0 341.0 Td
+(Q6 Create a thread by extending Thread and print Running Thread five times.) Tj
+ET
+0.800 0.300 0.160 rg
+BT
+/F2 12 Tf
+42.0 316.0 Td
+(PROGRAM) Tj
+ET
+0.270 0.310 0.340 rg
+BT
+/F2 8.8 Tf
+47.0 298.0 Td
+(Q6_ExtendsThread.java) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 283.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 285.0 Td
+(class RunningThread extends Thread {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 273.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 275.0 Td
+(    public void run\(\) {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 263.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 265.0 Td
+(        for \(int count = 1; count <= 5; count++\) {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 253.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 255.0 Td
+(            System.out.println\("Running Thread"\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 243.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 245.0 Td
+(        }) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 233.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 235.0 Td
+(    }) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 223.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 225.0 Td
+(}) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 213.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 215.0 Td
+() Tj
+ET
+0.960 0.970 0.980 rg
+38.0 203.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 205.0 Td
+(public class Q6_ExtendsThread {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 193.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 195.0 Td
+(    public static void main\(String[] args\) throws InterruptedException {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 183.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 185.0 Td
+(        Thread thread = new RunningThread\(\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 173.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 175.0 Td
+(        thread.start\(\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 163.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 165.0 Td
+(        thread.join\(\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 153.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 155.0 Td
+(    }) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 143.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 145.0 Td
+(}) Tj
+ET
+0.800 0.300 0.160 rg
+BT
+/F2 12 Tf
+42.0 127.0 Td
+(OUTPUT) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 107.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 109.0 Td
+(Running Thread) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 97.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 99.0 Td
+(Running Thread) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 87.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 89.0 Td
+(Running Thread) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 77.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 79.0 Td
+(Running Thread) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 67.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 69.0 Td
+(Running Thread) Tj
+ET
+0.160 0.350 0.450 rg
+BT
+/F2 7.5 Tf
+42.0 776.0 Td
+(PRACTICAL ASSIGNMENT-3) Tj
+ET
+0.350 0.400 0.430 rg
+BT
+/F1 7.5 Tf
+470.0 776.0 Td
+(24BCA095) Tj
+ET
+0.82 0.86 0.88 RG 0.5 w 42 34 m 570 34 l S
+0.350 0.400 0.430 rg
+BT
+/F1 7.5 Tf
+302.0 20.0 Td
+(3) Tj
+ET
+endstream
+endobj
+11 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 10 0 R >>
+endobj
+12 0 obj
+<< /Length 7748 >>
+stream
+0.900 0.950 0.960 rg
+36.0 703.0 540.0 52.0 re f
+0.080 0.320 0.430 rg
+BT
+/F2 11.5 Tf
+42.0 750.0 Td
+(Q7 Implement Runnable to print numbers 1 to 10 while the main thread prints alphabets) Tj
+ET
+0.080 0.320 0.430 rg
+BT
+/F2 11.5 Tf
+42.0 735.0 Td
+(A to J.) Tj
+ET
+0.800 0.300 0.160 rg
+BT
+/F2 12 Tf
+42.0 710.0 Td
+(PROGRAM) Tj
+ET
+0.270 0.310 0.340 rg
+BT
+/F2 8.8 Tf
+47.0 692.0 Td
+(Q7_RunnableThreads.java) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 677.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 679.0 Td
+(class NumberTask implements Runnable {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 667.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 669.0 Td
+(    public void run\(\) {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 657.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 659.0 Td
+(        for \(int number = 1; number <= 10; number++\) {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 647.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 649.0 Td
+(            System.out.println\("Number : " + number\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 637.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 639.0 Td
+(        }) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 627.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 629.0 Td
+(    }) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 617.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 619.0 Td
+(}) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 607.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 609.0 Td
+() Tj
+ET
+0.960 0.970 0.980 rg
+38.0 597.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 599.0 Td
+(public class Q7_RunnableThreads {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 587.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 589.0 Td
+(    public static void main\(String[] args\) throws InterruptedException {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 577.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 579.0 Td
+(        Thread numberThread = new Thread\(new NumberTask\(\)\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 567.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 569.0 Td
+(        numberThread.start\(\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 557.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 559.0 Td
+() Tj
+ET
+0.960 0.970 0.980 rg
+38.0 547.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 549.0 Td
+(        for \(char letter = 'A'; letter <= 'J'; letter++\) {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 537.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 539.0 Td
+(            System.out.println\("Alphabet : " + letter\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 527.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 529.0 Td
+(        }) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 517.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 519.0 Td
+(        numberThread.join\(\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 507.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 509.0 Td
+(    }) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 497.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 499.0 Td
+(}) Tj
+ET
+0.800 0.300 0.160 rg
+BT
+/F2 12 Tf
+42.0 481.0 Td
+(OUTPUT) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 461.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 463.0 Td
+(Number : 1) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 451.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 453.0 Td
+(Number : 2) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 441.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 443.0 Td
+(Number : 3) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 431.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 433.0 Td
+(Number : 4) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 421.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 423.0 Td
+(Number : 5) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 411.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 413.0 Td
+(Number : 6) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 401.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 403.0 Td
+(Number : 7) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 391.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 393.0 Td
+(Number : 8) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 381.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 383.0 Td
+(Number : 9) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 371.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 373.0 Td
+(Number : 10) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 361.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 363.0 Td
+(Alphabet : A) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 351.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 353.0 Td
+(Alphabet : B) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 341.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 343.0 Td
+(Alphabet : C) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 331.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 333.0 Td
+(Alphabet : D) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 321.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 323.0 Td
+(Alphabet : E) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 311.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 313.0 Td
+(Alphabet : F) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 301.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 303.0 Td
+(Alphabet : G) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 291.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 293.0 Td
+(Alphabet : H) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 281.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 283.0 Td
+(Alphabet : I) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 271.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 273.0 Td
+(Alphabet : J) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 261.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 263.0 Td
+([Note: Thread output order may vary.]) Tj
+ET
+0.900 0.950 0.960 rg
+36.0 198.0 540.0 52.0 re f
+0.080 0.320 0.430 rg
+BT
+/F2 11.5 Tf
+42.0 245.0 Td
+(Q8 Create threads with MIN_PRIORITY, NORM_PRIORITY, and MAX_PRIORITY and observe) Tj
+ET
+0.080 0.320 0.430 rg
+BT
+/F2 11.5 Tf
+42.0 230.0 Td
+(execution order.) Tj
+ET
+0.800 0.300 0.160 rg
+BT
+/F2 12 Tf
+42.0 205.0 Td
+(PROGRAM) Tj
+ET
+0.270 0.310 0.340 rg
+BT
+/F2 8.8 Tf
+47.0 187.0 Td
+(Q8_ThreadPriorities.java) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 172.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 174.0 Td
+(class PriorityTask extends Thread {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 162.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 164.0 Td
+(    PriorityTask\(String name, int priority\) {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 152.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 154.0 Td
+(        super\(name\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 142.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 144.0 Td
+(        setPriority\(priority\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 132.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 134.0 Td
+(    }) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 122.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 124.0 Td
+() Tj
+ET
+0.960 0.970 0.980 rg
+38.0 112.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 114.0 Td
+(    public void run\(\) {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 102.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 104.0 Td
+(        for \(int count = 1; count <= 3; count++\) {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 92.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 94.0 Td
+(            System.out.println\(getName\(\) + " priority " + getPriority\(\)\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 82.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 84.0 Td
+(        }) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 72.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 74.0 Td
+(    }) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 62.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 64.0 Td
+(}) Tj
+ET
+0.160 0.350 0.450 rg
+BT
+/F2 7.5 Tf
+42.0 776.0 Td
+(PRACTICAL ASSIGNMENT-3) Tj
+ET
+0.350 0.400 0.430 rg
+BT
+/F1 7.5 Tf
+470.0 776.0 Td
+(24BCA095) Tj
+ET
+0.82 0.86 0.88 RG 0.5 w 42 34 m 570 34 l S
+0.350 0.400 0.430 rg
+BT
+/F1 7.5 Tf
+302.0 20.0 Td
+(4) Tj
+ET
+endstream
+endobj
+13 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 12 0 R >>
+endobj
+14 0 obj
+<< /Length 8302 >>
+stream
+0.960 0.970 0.980 rg
+38.0 748.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 750.0 Td
+() Tj
+ET
+0.960 0.970 0.980 rg
+38.0 738.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 740.0 Td
+(public class Q8_ThreadPriorities {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 728.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 730.0 Td
+(    public static void main\(String[] args\) throws InterruptedException {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 718.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 720.0 Td
+(        Thread low = new PriorityTask\("Low", Thread.MIN_PRIORITY\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 708.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 710.0 Td
+(        Thread normal = new PriorityTask\("Normal", Thread.NORM_PRIORITY\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 698.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 700.0 Td
+(        Thread high = new PriorityTask\("High", Thread.MAX_PRIORITY\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 688.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 690.0 Td
+() Tj
+ET
+0.960 0.970 0.980 rg
+38.0 678.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 680.0 Td
+(        low.start\(\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 668.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 670.0 Td
+(        normal.start\(\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 658.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 660.0 Td
+(        high.start\(\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 648.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 650.0 Td
+(        low.join\(\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 638.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 640.0 Td
+(        normal.join\(\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 628.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 630.0 Td
+(        high.join\(\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 618.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 620.0 Td
+(        System.out.println\("Priority is only a scheduling hint; order may vary."\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 608.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 610.0 Td
+(    }) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 598.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 600.0 Td
+(}) Tj
+ET
+0.800 0.300 0.160 rg
+BT
+/F2 12 Tf
+42.0 582.0 Td
+(OUTPUT) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 562.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 564.0 Td
+(High priority 10) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 552.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 554.0 Td
+(High priority 10) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 542.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 544.0 Td
+(High priority 10) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 532.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 534.0 Td
+(Normal priority 5) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 522.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 524.0 Td
+(Normal priority 5) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 512.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 514.0 Td
+(Normal priority 5) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 502.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 504.0 Td
+(Low priority 1) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 492.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 494.0 Td
+(Low priority 1) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 482.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 484.0 Td
+(Low priority 1) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 472.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 474.0 Td
+(Priority is only a scheduling hint; order may vary.) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 462.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 464.0 Td
+([Note: Thread priority is a scheduling hint; order may vary.]) Tj
+ET
+0.900 0.950 0.960 rg
+36.0 415.0 540.0 36.0 re f
+0.080 0.320 0.430 rg
+BT
+/F2 11.5 Tf
+42.0 446.0 Td
+(Q9 Create two threads to print even and odd numbers up to 20.) Tj
+ET
+0.800 0.300 0.160 rg
+BT
+/F2 12 Tf
+42.0 421.0 Td
+(PROGRAM) Tj
+ET
+0.270 0.310 0.340 rg
+BT
+/F2 8.8 Tf
+47.0 403.0 Td
+(Q9_EvenOddThreads.java) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 388.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 390.0 Td
+(class EvenTask extends Thread {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 378.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 380.0 Td
+(    public void run\(\) {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 368.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 370.0 Td
+(        for \(int number = 2; number <= 20; number += 2\) {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 358.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 360.0 Td
+(            System.out.println\("Even : " + number\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 348.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 350.0 Td
+(        }) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 338.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 340.0 Td
+(    }) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 328.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 330.0 Td
+(}) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 318.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 320.0 Td
+() Tj
+ET
+0.960 0.970 0.980 rg
+38.0 308.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 310.0 Td
+(class OddTask extends Thread {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 298.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 300.0 Td
+(    public void run\(\) {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 288.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 290.0 Td
+(        for \(int number = 1; number <= 19; number += 2\) {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 278.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 280.0 Td
+(            System.out.println\("Odd : " + number\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 268.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 270.0 Td
+(        }) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 258.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 260.0 Td
+(    }) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 248.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 250.0 Td
+(}) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 238.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 240.0 Td
+() Tj
+ET
+0.960 0.970 0.980 rg
+38.0 228.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 230.0 Td
+(public class Q9_EvenOddThreads {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 218.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 220.0 Td
+(    public static void main\(String[] args\) throws InterruptedException {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 208.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 210.0 Td
+(        Thread even = new EvenTask\(\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 198.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 200.0 Td
+(        Thread odd = new OddTask\(\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 188.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 190.0 Td
+(        even.start\(\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 178.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 180.0 Td
+(        odd.start\(\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 168.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 170.0 Td
+(        even.join\(\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 158.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 160.0 Td
+(        odd.join\(\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 148.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 150.0 Td
+(    }) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 138.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 140.0 Td
+(}) Tj
+ET
+0.800 0.300 0.160 rg
+BT
+/F2 12 Tf
+42.0 122.0 Td
+(OUTPUT) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 102.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 104.0 Td
+(Odd : 1) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 92.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 94.0 Td
+(Odd : 3) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 82.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 84.0 Td
+(Odd : 5) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 72.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 74.0 Td
+(Odd : 7) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 62.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 64.0 Td
+(Odd : 9) Tj
+ET
+0.160 0.350 0.450 rg
+BT
+/F2 7.5 Tf
+42.0 776.0 Td
+(PRACTICAL ASSIGNMENT-3) Tj
+ET
+0.350 0.400 0.430 rg
+BT
+/F1 7.5 Tf
+470.0 776.0 Td
+(24BCA095) Tj
+ET
+0.82 0.86 0.88 RG 0.5 w 42 34 m 570 34 l S
+0.350 0.400 0.430 rg
+BT
+/F1 7.5 Tf
+302.0 20.0 Td
+(5) Tj
+ET
+endstream
+endobj
+15 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 14 0 R >>
+endobj
+16 0 obj
+<< /Length 7686 >>
+stream
+0.940 0.980 0.950 rg
+38.0 748.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 750.0 Td
+(Odd : 11) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 738.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 740.0 Td
+(Odd : 13) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 728.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 730.0 Td
+(Odd : 15) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 718.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 720.0 Td
+(Odd : 17) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 708.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 710.0 Td
+(Odd : 19) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 698.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 700.0 Td
+(Even : 2) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 688.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 690.0 Td
+(Even : 4) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 678.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 680.0 Td
+(Even : 6) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 668.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 670.0 Td
+(Even : 8) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 658.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 660.0 Td
+(Even : 10) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 648.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 650.0 Td
+(Even : 12) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 638.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 640.0 Td
+(Even : 14) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 628.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 630.0 Td
+(Even : 16) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 618.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 620.0 Td
+(Even : 18) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 608.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 610.0 Td
+(Even : 20) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 598.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 600.0 Td
+([Note: Even and odd output order may vary.]) Tj
+ET
+0.900 0.950 0.960 rg
+36.0 535.0 540.0 52.0 re f
+0.080 0.320 0.430 rg
+BT
+/F2 11.5 Tf
+42.0 582.0 Td
+(Q10 Create producer and consumer threads using an ArrayList and simple thread) Tj
+ET
+0.080 0.320 0.430 rg
+BT
+/F2 11.5 Tf
+42.0 567.0 Td
+(coordination.) Tj
+ET
+0.800 0.300 0.160 rg
+BT
+/F2 12 Tf
+42.0 542.0 Td
+(PROGRAM) Tj
+ET
+0.270 0.310 0.340 rg
+BT
+/F2 8.8 Tf
+47.0 524.0 Td
+(Q10_ProducerConsumer.java) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 509.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 511.0 Td
+(import java.util.ArrayList;) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 499.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 501.0 Td
+(import java.util.Random;) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 489.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 491.0 Td
+() Tj
+ET
+0.960 0.970 0.980 rg
+38.0 479.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 481.0 Td
+(public class Q10_ProducerConsumer {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 469.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 471.0 Td
+(    public static void main\(String[] args\) throws InterruptedException {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 459.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 461.0 Td
+(        ArrayList<Integer> numbers = new ArrayList<>\(\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 449.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 451.0 Td
+(        Random random = new Random\(\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 439.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 441.0 Td
+() Tj
+ET
+0.960 0.970 0.980 rg
+38.0 429.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 431.0 Td
+(        Thread producer = new Thread\(\(\) -> {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 419.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 421.0 Td
+(            for \(int count = 1; count <= 5; count++\) {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 409.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 411.0 Td
+(                numbers.add\(random.nextInt\(100\)\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 399.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 401.0 Td
+(            }) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 389.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 391.0 Td
+(        }\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 379.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 381.0 Td
+(        Thread consumer = new Thread\(\(\) -> {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 369.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 371.0 Td
+(            for \(int number : numbers\) {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 359.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 361.0 Td
+(                System.out.println\("Consumed : " + number\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 349.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 351.0 Td
+(            }) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 339.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 341.0 Td
+(        }\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 329.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 331.0 Td
+() Tj
+ET
+0.960 0.970 0.980 rg
+38.0 319.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 321.0 Td
+(        producer.start\(\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 309.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 311.0 Td
+(        producer.join\(\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 299.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 301.0 Td
+(        consumer.start\(\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 289.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 291.0 Td
+(        consumer.join\(\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 279.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 281.0 Td
+(    }) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 269.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 271.0 Td
+(}) Tj
+ET
+0.800 0.300 0.160 rg
+BT
+/F2 12 Tf
+42.0 253.0 Td
+(OUTPUT) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 233.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 235.0 Td
+(Consumed : 85) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 223.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 225.0 Td
+(Consumed : 40) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 213.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 215.0 Td
+(Consumed : 86) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 203.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 205.0 Td
+(Consumed : 82) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 193.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 195.0 Td
+(Consumed : 54) Tj
+ET
+0.900 0.950 0.960 rg
+36.0 146.0 540.0 36.0 re f
+0.080 0.320 0.430 rg
+BT
+/F2 11.5 Tf
+42.0 177.0 Td
+(Q11 Create an ArrayList of names, add and remove names, and display the result.) Tj
+ET
+0.800 0.300 0.160 rg
+BT
+/F2 12 Tf
+42.0 152.0 Td
+(PROGRAM) Tj
+ET
+0.270 0.310 0.340 rg
+BT
+/F2 8.8 Tf
+47.0 134.0 Td
+(Q11_ArrayList.java) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 119.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 121.0 Td
+(import java.util.ArrayList;) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 109.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 111.0 Td
+() Tj
+ET
+0.960 0.970 0.980 rg
+38.0 99.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 101.0 Td
+(public class Q11_ArrayList {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 89.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 91.0 Td
+(    public static void main\(String[] args\) {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 79.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 81.0 Td
+(        ArrayList<String> names = new ArrayList<>\(\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 69.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 71.0 Td
+(        names.add\("Aman"\);) Tj
+ET
+0.160 0.350 0.450 rg
+BT
+/F2 7.5 Tf
+42.0 776.0 Td
+(PRACTICAL ASSIGNMENT-3) Tj
+ET
+0.350 0.400 0.430 rg
+BT
+/F1 7.5 Tf
+470.0 776.0 Td
+(24BCA095) Tj
+ET
+0.82 0.86 0.88 RG 0.5 w 42 34 m 570 34 l S
+0.350 0.400 0.430 rg
+BT
+/F1 7.5 Tf
+302.0 20.0 Td
+(6) Tj
+ET
+endstream
+endobj
+17 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 16 0 R >>
+endobj
+18 0 obj
+<< /Length 7000 >>
+stream
+0.960 0.970 0.980 rg
+38.0 748.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 750.0 Td
+(        names.add\("Bhavna"\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 738.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 740.0 Td
+(        names.add\("Chirag"\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 728.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 730.0 Td
+(        names.remove\("Bhavna"\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 718.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 720.0 Td
+() Tj
+ET
+0.960 0.970 0.980 rg
+38.0 708.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 710.0 Td
+(        for \(String name : names\) {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 698.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 700.0 Td
+(            System.out.println\(name\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 688.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 690.0 Td
+(        }) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 678.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 680.0 Td
+(    }) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 668.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 670.0 Td
+(}) Tj
+ET
+0.800 0.300 0.160 rg
+BT
+/F2 12 Tf
+42.0 652.0 Td
+(OUTPUT) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 632.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 634.0 Td
+(Aman) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 622.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 624.0 Td
+(Chirag) Tj
+ET
+0.900 0.950 0.960 rg
+36.0 575.0 540.0 36.0 re f
+0.080 0.320 0.430 rg
+BT
+/F2 11.5 Tf
+42.0 606.0 Td
+(Q12 Store integers in a LinkedList and perform insertion and deletion.) Tj
+ET
+0.800 0.300 0.160 rg
+BT
+/F2 12 Tf
+42.0 581.0 Td
+(PROGRAM) Tj
+ET
+0.270 0.310 0.340 rg
+BT
+/F2 8.8 Tf
+47.0 563.0 Td
+(Q12_LinkedList.java) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 548.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 550.0 Td
+(import java.util.LinkedList;) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 538.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 540.0 Td
+() Tj
+ET
+0.960 0.970 0.980 rg
+38.0 528.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 530.0 Td
+(public class Q12_LinkedList {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 518.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 520.0 Td
+(    public static void main\(String[] args\) {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 508.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 510.0 Td
+(        LinkedList<Integer> numbers = new LinkedList<>\(\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 498.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 500.0 Td
+(        numbers.add\(10\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 488.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 490.0 Td
+(        numbers.add\(30\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 478.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 480.0 Td
+(        numbers.addFirst\(5\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 468.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 470.0 Td
+(        numbers.add\(1, 20\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 458.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 460.0 Td
+(        numbers.remove\(Integer.valueOf\(30\)\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 448.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 450.0 Td
+(        System.out.println\(numbers\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 438.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 440.0 Td
+(    }) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 428.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 430.0 Td
+(}) Tj
+ET
+0.800 0.300 0.160 rg
+BT
+/F2 12 Tf
+42.0 412.0 Td
+(OUTPUT) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 392.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 394.0 Td
+([5, 20, 10]) Tj
+ET
+0.900 0.950 0.960 rg
+36.0 345.0 540.0 36.0 re f
+0.080 0.320 0.430 rg
+BT
+/F2 11.5 Tf
+42.0 376.0 Td
+(Q13 Create a Vector of book titles and display it using Enumeration.) Tj
+ET
+0.800 0.300 0.160 rg
+BT
+/F2 12 Tf
+42.0 351.0 Td
+(PROGRAM) Tj
+ET
+0.270 0.310 0.340 rg
+BT
+/F2 8.8 Tf
+47.0 333.0 Td
+(Q13_VectorEnumeration.java) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 318.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 320.0 Td
+(import java.util.Enumeration;) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 308.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 310.0 Td
+(import java.util.Vector;) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 298.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 300.0 Td
+() Tj
+ET
+0.960 0.970 0.980 rg
+38.0 288.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 290.0 Td
+(public class Q13_VectorEnumeration {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 278.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 280.0 Td
+(    public static void main\(String[] args\) {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 268.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 270.0 Td
+(        Vector<String> books = new Vector<>\(\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 258.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 260.0 Td
+(        books.add\("Java Basics"\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 248.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 250.0 Td
+(        books.add\("Data Structures"\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 238.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 240.0 Td
+(        books.add\("Operating Systems"\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 228.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 230.0 Td
+() Tj
+ET
+0.960 0.970 0.980 rg
+38.0 218.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 220.0 Td
+(        Enumeration<String> titles = books.elements\(\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 208.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 210.0 Td
+(        while \(titles.hasMoreElements\(\)\) {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 198.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 200.0 Td
+(            System.out.println\(titles.nextElement\(\)\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 188.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 190.0 Td
+(        }) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 178.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 180.0 Td
+(    }) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 168.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 170.0 Td
+(}) Tj
+ET
+0.800 0.300 0.160 rg
+BT
+/F2 12 Tf
+42.0 152.0 Td
+(OUTPUT) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 132.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 134.0 Td
+(Java Basics) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 122.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 124.0 Td
+(Data Structures) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 112.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 114.0 Td
+(Operating Systems) Tj
+ET
+0.900 0.950 0.960 rg
+36.0 65.0 540.0 36.0 re f
+0.080 0.320 0.430 rg
+BT
+/F2 11.5 Tf
+42.0 96.0 Td
+(Q14 Create a HashSet of unique city names and try adding duplicates.) Tj
+ET
+0.160 0.350 0.450 rg
+BT
+/F2 7.5 Tf
+42.0 776.0 Td
+(PRACTICAL ASSIGNMENT-3) Tj
+ET
+0.350 0.400 0.430 rg
+BT
+/F1 7.5 Tf
+470.0 776.0 Td
+(24BCA095) Tj
+ET
+0.82 0.86 0.88 RG 0.5 w 42 34 m 570 34 l S
+0.350 0.400 0.430 rg
+BT
+/F1 7.5 Tf
+302.0 20.0 Td
+(7) Tj
+ET
+endstream
+endobj
+19 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 18 0 R >>
+endobj
+20 0 obj
+<< /Length 6999 >>
+stream
+0.800 0.300 0.160 rg
+BT
+/F2 12 Tf
+42.0 750.0 Td
+(PROGRAM) Tj
+ET
+0.270 0.310 0.340 rg
+BT
+/F2 8.8 Tf
+47.0 732.0 Td
+(Q14_HashSet.java) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 717.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 719.0 Td
+(import java.util.HashSet;) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 707.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 709.0 Td
+() Tj
+ET
+0.960 0.970 0.980 rg
+38.0 697.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 699.0 Td
+(public class Q14_HashSet {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 687.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 689.0 Td
+(    public static void main\(String[] args\) {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 677.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 679.0 Td
+(        HashSet<String> cities = new HashSet<>\(\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 667.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 669.0 Td
+(        cities.add\("Delhi"\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 657.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 659.0 Td
+(        cities.add\("Mumbai"\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 647.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 649.0 Td
+(        cities.add\("Delhi"\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 637.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 639.0 Td
+(        cities.add\("Pune"\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 627.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 629.0 Td
+(        System.out.println\(cities\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 617.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 619.0 Td
+(    }) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 607.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 609.0 Td
+(}) Tj
+ET
+0.800 0.300 0.160 rg
+BT
+/F2 12 Tf
+42.0 591.0 Td
+(OUTPUT) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 571.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 573.0 Td
+([Delhi, Pune, Mumbai]) Tj
+ET
+0.900 0.950 0.960 rg
+36.0 524.0 540.0 36.0 re f
+0.080 0.320 0.430 rg
+BT
+/F2 11.5 Tf
+42.0 555.0 Td
+(Q15 Create a TreeSet of integers and print them in sorted order.) Tj
+ET
+0.800 0.300 0.160 rg
+BT
+/F2 12 Tf
+42.0 530.0 Td
+(PROGRAM) Tj
+ET
+0.270 0.310 0.340 rg
+BT
+/F2 8.8 Tf
+47.0 512.0 Td
+(Q15_TreeSet.java) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 497.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 499.0 Td
+(import java.util.TreeSet;) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 487.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 489.0 Td
+() Tj
+ET
+0.960 0.970 0.980 rg
+38.0 477.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 479.0 Td
+(public class Q15_TreeSet {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 467.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 469.0 Td
+(    public static void main\(String[] args\) {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 457.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 459.0 Td
+(        TreeSet<Integer> numbers = new TreeSet<>\(\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 447.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 449.0 Td
+(        numbers.add\(40\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 437.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 439.0 Td
+(        numbers.add\(10\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 427.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 429.0 Td
+(        numbers.add\(30\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 417.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 419.0 Td
+(        numbers.add\(20\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 407.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 409.0 Td
+(        System.out.println\(numbers\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 397.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 399.0 Td
+(    }) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 387.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 389.0 Td
+(}) Tj
+ET
+0.800 0.300 0.160 rg
+BT
+/F2 12 Tf
+42.0 371.0 Td
+(OUTPUT) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 351.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 353.0 Td
+([10, 20, 30, 40]) Tj
+ET
+0.900 0.950 0.960 rg
+36.0 304.0 540.0 36.0 re f
+0.080 0.320 0.430 rg
+BT
+/F2 11.5 Tf
+42.0 335.0 Td
+(Q16 Add numbered tasks to a PriorityQueue and print them in ascending order.) Tj
+ET
+0.800 0.300 0.160 rg
+BT
+/F2 12 Tf
+42.0 310.0 Td
+(PROGRAM) Tj
+ET
+0.270 0.310 0.340 rg
+BT
+/F2 8.8 Tf
+47.0 292.0 Td
+(Q16_PriorityQueue.java) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 277.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 279.0 Td
+(import java.util.PriorityQueue;) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 267.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 269.0 Td
+() Tj
+ET
+0.960 0.970 0.980 rg
+38.0 257.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 259.0 Td
+(public class Q16_PriorityQueue {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 247.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 249.0 Td
+(    public static void main\(String[] args\) {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 237.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 239.0 Td
+(        PriorityQueue<Integer> tasks = new PriorityQueue<>\(\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 227.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 229.0 Td
+(        tasks.add\(40\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 217.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 219.0 Td
+(        tasks.add\(10\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 207.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 209.0 Td
+(        tasks.add\(30\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 197.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 199.0 Td
+(        tasks.add\(20\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 187.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 189.0 Td
+() Tj
+ET
+0.960 0.970 0.980 rg
+38.0 177.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 179.0 Td
+(        while \(!tasks.isEmpty\(\)\) {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 167.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 169.0 Td
+(            System.out.println\(tasks.poll\(\)\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 157.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 159.0 Td
+(        }) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 147.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 149.0 Td
+(    }) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 137.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 139.0 Td
+(}) Tj
+ET
+0.800 0.300 0.160 rg
+BT
+/F2 12 Tf
+42.0 121.0 Td
+(OUTPUT) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 101.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 103.0 Td
+(10) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 91.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 93.0 Td
+(20) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 81.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 83.0 Td
+(30) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 71.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 73.0 Td
+(40) Tj
+ET
+0.160 0.350 0.450 rg
+BT
+/F2 7.5 Tf
+42.0 776.0 Td
+(PRACTICAL ASSIGNMENT-3) Tj
+ET
+0.350 0.400 0.430 rg
+BT
+/F1 7.5 Tf
+470.0 776.0 Td
+(24BCA095) Tj
+ET
+0.82 0.86 0.88 RG 0.5 w 42 34 m 570 34 l S
+0.350 0.400 0.430 rg
+BT
+/F1 7.5 Tf
+302.0 20.0 Td
+(8) Tj
+ET
+endstream
+endobj
+21 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 20 0 R >>
+endobj
+22 0 obj
+<< /Length 7809 >>
+stream
+0.900 0.950 0.960 rg
+36.0 719.0 540.0 36.0 re f
+0.080 0.320 0.430 rg
+BT
+/F2 11.5 Tf
+42.0 750.0 Td
+(Q17 Use Iterator and ListIterator to traverse an ArrayList forward and backward.) Tj
+ET
+0.800 0.300 0.160 rg
+BT
+/F2 12 Tf
+42.0 725.0 Td
+(PROGRAM) Tj
+ET
+0.270 0.310 0.340 rg
+BT
+/F2 8.8 Tf
+47.0 707.0 Td
+(Q17_IteratorListIterator.java) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 692.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 694.0 Td
+(import java.util.ArrayList;) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 682.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 684.0 Td
+(import java.util.Iterator;) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 672.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 674.0 Td
+(import java.util.ListIterator;) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 662.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 664.0 Td
+() Tj
+ET
+0.960 0.970 0.980 rg
+38.0 652.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 654.0 Td
+(public class Q17_IteratorListIterator {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 642.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 644.0 Td
+(    public static void main\(String[] args\) {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 632.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 634.0 Td
+(        ArrayList<Integer> numbers = new ArrayList<>\(\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 622.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 624.0 Td
+(        numbers.add\(10\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 612.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 614.0 Td
+(        numbers.add\(20\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 602.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 604.0 Td
+(        numbers.add\(30\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 592.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 594.0 Td
+() Tj
+ET
+0.960 0.970 0.980 rg
+38.0 582.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 584.0 Td
+(        Iterator<Integer> iterator = numbers.iterator\(\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 572.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 574.0 Td
+(        while \(iterator.hasNext\(\)\) {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 562.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 564.0 Td
+(            System.out.println\("Iterator : " + iterator.next\(\)\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 552.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 554.0 Td
+(        }) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 542.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 544.0 Td
+() Tj
+ET
+0.960 0.970 0.980 rg
+38.0 532.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 534.0 Td
+(        ListIterator<Integer> listIterator = numbers.listIterator\(\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 522.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 524.0 Td
+(        while \(listIterator.hasNext\(\)\) {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 512.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 514.0 Td
+(            System.out.println\("Forward : " + listIterator.next\(\)\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 502.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 504.0 Td
+(        }) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 492.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 494.0 Td
+(        while \(listIterator.hasPrevious\(\)\) {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 482.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 484.0 Td
+(            System.out.println\("Backward : " + listIterator.previous\(\)\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 472.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 474.0 Td
+(        }) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 462.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 464.0 Td
+(    }) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 452.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 454.0 Td
+(}) Tj
+ET
+0.800 0.300 0.160 rg
+BT
+/F2 12 Tf
+42.0 436.0 Td
+(OUTPUT) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 416.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 418.0 Td
+(Iterator : 10) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 406.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 408.0 Td
+(Iterator : 20) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 396.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 398.0 Td
+(Iterator : 30) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 386.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 388.0 Td
+(Forward : 10) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 376.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 378.0 Td
+(Forward : 20) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 366.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 368.0 Td
+(Forward : 30) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 356.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 358.0 Td
+(Backward : 30) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 346.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 348.0 Td
+(Backward : 20) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 336.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 338.0 Td
+(Backward : 10) Tj
+ET
+0.900 0.950 0.960 rg
+36.0 289.0 540.0 36.0 re f
+0.080 0.320 0.430 rg
+BT
+/F2 11.5 Tf
+42.0 320.0 Td
+(Q18 Store student roll numbers and names in a HashMap and print all entries.) Tj
+ET
+0.800 0.300 0.160 rg
+BT
+/F2 12 Tf
+42.0 295.0 Td
+(PROGRAM) Tj
+ET
+0.270 0.310 0.340 rg
+BT
+/F2 8.8 Tf
+47.0 277.0 Td
+(Q18_HashMap.java) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 262.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 264.0 Td
+(import java.util.HashMap;) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 252.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 254.0 Td
+() Tj
+ET
+0.960 0.970 0.980 rg
+38.0 242.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 244.0 Td
+(public class Q18_HashMap {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 232.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 234.0 Td
+(    public static void main\(String[] args\) {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 222.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 224.0 Td
+(        HashMap<Integer, String> students = new HashMap<>\(\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 212.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 214.0 Td
+(        students.put\(101, "Aman"\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 202.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 204.0 Td
+(        students.put\(102, "Bhavna"\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 192.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 194.0 Td
+(        students.put\(103, "Chirag"\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 182.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 184.0 Td
+() Tj
+ET
+0.960 0.970 0.980 rg
+38.0 172.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 174.0 Td
+(        for \(var entry : students.entrySet\(\)\) {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 162.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 164.0 Td
+(            System.out.println\(entry.getKey\(\) + " : " + entry.getValue\(\)\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 152.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 154.0 Td
+(        }) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 142.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 144.0 Td
+(    }) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 132.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 134.0 Td
+(}) Tj
+ET
+0.800 0.300 0.160 rg
+BT
+/F2 12 Tf
+42.0 116.0 Td
+(OUTPUT) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 96.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 98.0 Td
+(101 : Aman) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 86.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 88.0 Td
+(102 : Bhavna) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 76.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 78.0 Td
+(103 : Chirag) Tj
+ET
+0.160 0.350 0.450 rg
+BT
+/F2 7.5 Tf
+42.0 776.0 Td
+(PRACTICAL ASSIGNMENT-3) Tj
+ET
+0.350 0.400 0.430 rg
+BT
+/F1 7.5 Tf
+470.0 776.0 Td
+(24BCA095) Tj
+ET
+0.82 0.86 0.88 RG 0.5 w 42 34 m 570 34 l S
+0.350 0.400 0.430 rg
+BT
+/F1 7.5 Tf
+302.0 20.0 Td
+(9) Tj
+ET
+endstream
+endobj
+23 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 22 0 R >>
+endobj
+24 0 obj
+<< /Length 5617 >>
+stream
+0.900 0.950 0.960 rg
+36.0 719.0 540.0 36.0 re f
+0.080 0.320 0.430 rg
+BT
+/F2 11.5 Tf
+42.0 750.0 Td
+(Q19 Store countries and capitals in a LinkedHashMap and show insertion order.) Tj
+ET
+0.800 0.300 0.160 rg
+BT
+/F2 12 Tf
+42.0 725.0 Td
+(PROGRAM) Tj
+ET
+0.270 0.310 0.340 rg
+BT
+/F2 8.8 Tf
+47.0 707.0 Td
+(Q19_LinkedHashMap.java) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 692.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 694.0 Td
+(import java.util.LinkedHashMap;) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 682.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 684.0 Td
+() Tj
+ET
+0.960 0.970 0.980 rg
+38.0 672.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 674.0 Td
+(public class Q19_LinkedHashMap {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 662.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 664.0 Td
+(    public static void main\(String[] args\) {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 652.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 654.0 Td
+(        LinkedHashMap<String, String> countries = new LinkedHashMap<>\(\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 642.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 644.0 Td
+(        countries.put\("India", "New Delhi"\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 632.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 634.0 Td
+(        countries.put\("Japan", "Tokyo"\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 622.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 624.0 Td
+(        countries.put\("France", "Paris"\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 612.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 614.0 Td
+() Tj
+ET
+0.960 0.970 0.980 rg
+38.0 602.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 604.0 Td
+(        for \(var entry : countries.entrySet\(\)\) {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 592.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 594.0 Td
+(            System.out.println\(entry.getKey\(\) + " : " + entry.getValue\(\)\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 582.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 584.0 Td
+(        }) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 572.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 574.0 Td
+(    }) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 562.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 564.0 Td
+(}) Tj
+ET
+0.800 0.300 0.160 rg
+BT
+/F2 12 Tf
+42.0 546.0 Td
+(OUTPUT) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 526.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 528.0 Td
+(India : New Delhi) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 516.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 518.0 Td
+(Japan : Tokyo) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 506.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 508.0 Td
+(France : Paris) Tj
+ET
+0.900 0.950 0.960 rg
+36.0 459.0 540.0 36.0 re f
+0.080 0.320 0.430 rg
+BT
+/F2 11.5 Tf
+42.0 490.0 Td
+(Q20 Store product names and prices in a TreeMap and print them sorted by product name.) Tj
+ET
+0.800 0.300 0.160 rg
+BT
+/F2 12 Tf
+42.0 465.0 Td
+(PROGRAM) Tj
+ET
+0.270 0.310 0.340 rg
+BT
+/F2 8.8 Tf
+47.0 447.0 Td
+(Q20_TreeMap.java) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 432.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 434.0 Td
+(import java.util.TreeMap;) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 422.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 424.0 Td
+() Tj
+ET
+0.960 0.970 0.980 rg
+38.0 412.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 414.0 Td
+(public class Q20_TreeMap {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 402.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 404.0 Td
+(    public static void main\(String[] args\) {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 392.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 394.0 Td
+(        TreeMap<String, Double> products = new TreeMap<>\(\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 382.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 384.0 Td
+(        products.put\("Keyboard", 1200.0\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 372.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 374.0 Td
+(        products.put\("Monitor", 8500.0\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 362.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 364.0 Td
+(        products.put\("Mouse", 600.0\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 352.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 354.0 Td
+() Tj
+ET
+0.960 0.970 0.980 rg
+38.0 342.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 344.0 Td
+(        for \(var entry : products.entrySet\(\)\) {) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 332.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 334.0 Td
+(            System.out.println\(entry.getKey\(\) + " : " + entry.getValue\(\)\);) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 322.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 324.0 Td
+(        }) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 312.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 314.0 Td
+(    }) Tj
+ET
+0.960 0.970 0.980 rg
+38.0 302.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 304.0 Td
+(}) Tj
+ET
+0.800 0.300 0.160 rg
+BT
+/F2 12 Tf
+42.0 286.0 Td
+(OUTPUT) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 266.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 268.0 Td
+(Keyboard : 1200.0) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 256.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 258.0 Td
+(Monitor : 8500.0) Tj
+ET
+0.940 0.980 0.950 rg
+38.0 246.0 536.0 10.0 re f
+0.120 0.150 0.180 rg
+BT
+/F3 7.6 Tf
+42.0 248.0 Td
+(Mouse : 600.0) Tj
+ET
+0.160 0.350 0.450 rg
+BT
+/F2 7.5 Tf
+42.0 776.0 Td
+(PRACTICAL ASSIGNMENT-3) Tj
+ET
+0.350 0.400 0.430 rg
+BT
+/F1 7.5 Tf
+470.0 776.0 Td
+(24BCA095) Tj
+ET
+0.82 0.86 0.88 RG 0.5 w 42 34 m 570 34 l S
+0.350 0.400 0.430 rg
+BT
+/F1 7.5 Tf
+302.0 20.0 Td
+(10) Tj
+ET
+endstream
+endobj
+25 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 24 0 R >>
+endobj
+xref
+0 26
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000184 00000 n 
+0000000254 00000 n 
+0000000329 00000 n 
+0000000397 00000 n 
+0000006973 00000 n 
+0000007119 00000 n 
+0000014665 00000 n 
+0000014811 00000 n 
+0000022223 00000 n 
+0000022371 00000 n 
+0000030172 00000 n 
+0000030320 00000 n 
+0000038675 00000 n 
+0000038823 00000 n 
+0000046562 00000 n 
+0000046710 00000 n 
+0000053763 00000 n 
+0000053911 00000 n 
+0000060963 00000 n 
+0000061111 00000 n 
+0000068973 00000 n 
+0000069121 00000 n 
+0000074791 00000 n 
+trailer
+<< /Size 26 /Root 1 0 R >>
+startxref
+74939
+%%EOF
